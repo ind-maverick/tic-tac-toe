@@ -26,3 +26,6 @@ This game uses [Plausible Analytics](https://plausible.io) to track anonymized u
 ## Contribute
 Star this repo if you enjoy the game!
 Fork and submit pull requests for new features (e.g., sound effects, two-player mode)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
